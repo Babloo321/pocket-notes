@@ -4,11 +4,6 @@
     padding: 0;
 }
 #root{
-    box-sizing: border-box;
-    margin: 0;
-    padding: 0;
-    background-color: yellow;
-    color: black;
-    height: 587px;
-    width: 1234px;
+    min-width: 1260px;
+    max-height: 562px;
 }
